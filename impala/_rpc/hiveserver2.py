@@ -25,7 +25,7 @@
 import datetime
 import socket
 import operator
-import exceptions
+#import exceptions
 import re
 
 from decimal import Decimal
